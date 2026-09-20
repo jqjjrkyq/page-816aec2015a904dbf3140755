@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "221ed5945e7d98720ffe3dd2",
+  "owner": "jqjjrkyq",
+  "repo": "page-816aec2015a904dbf3140755",
+  "title": "百草园(NSFWCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "816aec2015a904dbf3140755",
+      "a": "百草园(NSFWCloud)",
+      "b": "2027官方最新地址导航",
+      "entity": "百草园(NSFWCloud)",
+      "brand": "百草园(NSFWCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d1fc5d30aa39ed30e4483c7827f6634523a6af1649c7021d7c7cdaa4417832f0",
+      "content": {
+        "primary_entity": "百草园(NSFWCloud)",
+        "keyword1": "百草园(NSFWCloud)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要跨境加速的用户提供三档订阅方案，基础版、旗舰版与团队版分别匹配轻量浏览、多设备流媒体与高带宽团队场景。客户端支持 Windows、macOS、iOS、Android 与路由器订阅导入，按设备数量选择对应套餐即可。",
+          "AI_HERO_SUBTITLE": "三档套餐匹配多设备加速",
+          "AI_HERO_INTRO": "百草园(NSFWCloud)提供基础版、旗舰版与团队版三档订阅，月付与年付可选，年付约合十个月价格。按流量、设备数与线路类型划分，方便根据日常使用强度快速定位合适方案。",
+          "AI_VISUAL_TITLE": "百草园 三档订阅速览",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备 1000GB",
+          "AI_FEATURES_TITLE": "选择思路",
+          "AI_FEATURES_INTRO": "从设备数量、月流量与线路类型三个维度对照固定套餐即可。",
+          "AI_FEATURE_TITLE_1": "按月流量选档",
+          "AI_FEATURE_TEXT_1": "100GB 适合单人或轻度使用，300GB 覆盖多设备流媒体，1000GB 面向团队共享。",
+          "AI_FEATURE_TITLE_2": "按设备数量选档",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，先统计常用终端再决定。",
+          "AI_FEATURE_TITLE_3": "年付成本更低",
+          "AI_FEATURE_TEXT_3": "三档均提供年付价格，约为月付的十个月费用，长期使用可按年锁定。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅即可使用，路由器方案适合覆盖全屋终端。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确定方案，再确认设备与线路要求，最后按客户端说明导入订阅。",
+          "AI_STEP_TITLE_1": "选定方案",
+          "AI_STEP_TEXT_1": "根据设备数与月流量选择基础版、旗舰版或团队版，长期使用可选年付。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认当前设备的系统版本与网络环境，流媒体与游戏场景优先考虑旗舰版线路。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "打开对应客户端，按文档导入订阅信息，完成后切换节点测试连通性。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_CLOSING_TEXT": "对照设备数量与月流量，选择百草园(NSFWCloud)中的一档订阅即可开始配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "百草园(NSFWCloud)三档套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并带IPLC专线；团队版每月1000GB、20台设备且支持企业定制路由。按设备数和流量需求选择即可。",
+          "AI_FAQ_QUESTION_2": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付150元相当于月均12.5元，旗舰版年付350元相当于月均约29元，团队版年付850元相当于月均约71元，均低于对应月付价格。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_3": "按同一账号同时保持连接的不同设备数计算。基础版3台、旗舰版5台、团队版20台，超出上限时可能影响正常使用。",
+          "AI_FAQ_QUESTION_4": "IPLC专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版包含IPLC专线并做游戏加速优化，适合对延迟较敏感的实时对战和大文件传输。团队版则提供VIP高带宽节点。",
+          "AI_FAQ_QUESTION_5": "订阅地址如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "获取订阅地址后，在对应客户端中选择从链接或订阅导入，粘贴地址并更新节点列表即可。具体菜单名称可查看该客户端的配置文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qpacxww.cn",
+    "host": "qpacxww.cn"
+  },
+  "file_hashes": {
+    "index.html": "4abb509e02b18b178fb3e6370522e555892576d39c5232df1f1b79013349ec52",
+    "sitemap.xml": "5a01faef31e6dc78e7ca21f341580465ee930f85faf156a195d247121db8a365",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "34511be0cb82774328b4aafda713897880297e34fd1f1ddd9d779460615f230a",
+    "robots.txt": "2eac74f576f76bf8c07954d065bdf66eade9144693b54d7289270de0a156cc08",
+    "900bca3ec606a02eca4d89ad2a1c7eea.txt": "1dd6d86f05d47ded06e0b9d8efaf79d41ba1b56cf2cb171f38aa4ef4e5a9e883"
+  },
+  "revision": "197c69cad735ef8fd16f0968d53e150ca8c5b0271d5c1dc3ab4679f6d2146d37"
+}
